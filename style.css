@@ -730,6 +730,23 @@ h4 {
     color: #333333!important;
 }
 
+.citation i {
+    font-size: 25px;
+}
+
+.citation p {
+    color:rgba(0, 0, 0, 0.3); 
+    font-size: 15px;
+}
+
+.img-to-txt {
+width: 615px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin: 0 auto;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
