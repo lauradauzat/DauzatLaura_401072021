@@ -756,6 +756,10 @@ margin: 0 auto;
     color: #FFFFFF!important;
 }
 
+.black {
+    color:rgb(0, 0, 0)
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -788,7 +792,7 @@ margin: 0 auto;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #F8C6AF;
 }
 
 .tc-white {
@@ -796,7 +800,7 @@ margin: 0 auto;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #F8C6AF;
     color: #000000!important;
 }
 
@@ -815,7 +819,7 @@ margin: 0 auto;
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #F8C6AF!important;
 }
 
 .ltc-atomic-tangerine:hover {
