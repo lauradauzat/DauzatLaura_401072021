@@ -7,6 +7,22 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+*:focus {
+    border: solid 2px #c27956;                                          
+}
+
+
+.cta-hero:focus {
+    background: #c27956!important;
+    color: #FFFFFF!important;
+
+
+}
+
+footer a:focus {
+    border: none; 
+}   
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -698,6 +714,7 @@ p {
     font-size: 16px;
     font-weight: 700;
 }
+
 
 .social {
     max-width: 400px;
