@@ -792,12 +792,12 @@ margin: 0 auto;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: hsl(0, 0%, 100%)!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -806,11 +806,12 @@ margin: 0 auto;
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #cccccc!important;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+   
+    color: #FFFFFF!important;
 }
 
 .ltc-atomic-tangerine {
