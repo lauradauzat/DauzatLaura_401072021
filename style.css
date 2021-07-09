@@ -21,7 +21,13 @@ body {
 
 footer a:focus {
     border: none; 
-}   
+}    
+
+footer a:focus > i {
+    color: rgb(255, 255, 255) !important; 
+    opacity: 1 !important;  
+}
+
 
 a,
 button {
@@ -301,6 +307,7 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    background: none;
 }
 
 .navbar {
