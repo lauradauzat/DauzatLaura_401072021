@@ -764,7 +764,7 @@ h4 {
 }
 
 .img-to-txt {
-width: 615px;
+max-width: 615px;
 display: flex;
 flex-direction: column;
 justify-content: center;
